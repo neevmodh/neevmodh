@@ -1,4 +1,19 @@
-# 💫 About Me:
+<h1 align="center" style="font-size:60px; letter-spacing:4px;">
+  NEEV MODH
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=AI+Systems+Builder;Healthcare+Tech+Explorer;Hackathon+Competitor;Future+Product+AI+Engineer" />
+</p>
+
+<p align="center">
+  <i>Depth over hype. Execution over certificates.</i>
+</p>
+
+---
+
+# 💫 About Me
+
 🔭 I’m currently working on  
 Building AI/ML projects that solve practical, real-world problems — from intelligent systems to optimization-based solutions.
 
@@ -20,10 +35,12 @@ I perform best under pressure — hackathons feel like startup bootcamps to me.
 ---
 
 ## 🎯 2026 Goals
+
 - 🚀 Deploy 3 ML models to production  
 - 🏆 Win 3 national-level hackathons  
 - 📦 Contribute to 1 open-source AI project  
 - 🧠 Build AI + Healthcare real-world system  
+
 ---
 ## 🐍 Contribution Snake
 
@@ -42,50 +59,83 @@ I perform best under pressure — hackathons feel like startup bootcamps to me.
 
 ---
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=FFFFFF)](https://bsky.app/profile/neev14.bsky.social)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/g8SU7et5)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/synex.is)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neev-modh-43478a285)
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/NModh3377)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCxzkHisGWxcVZ5884uxJyeg)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neevmodh205@gmail.com)
-
----
-# 💻 Tech Stack:
-
-### 🧠 Programming Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 ---
 
-### 🤖 AI / Machine Learning
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+## 🤝 Let's Connect
+
+<p align="center">
+
+  <a href="https://linkedin.com/in/neev-modh-43478a285">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://x.com/NModh3377">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"/>
+  </a>
+
+  <a href="https://youtube.com/channel/UCxzkHisGWxcVZ5884uxJyeg">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+
+  <a href="mailto:neevmodh205@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+</p>
+
+<p align="center">
+
+  <a href="https://discord.gg/g8SU7et5">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/synex.is">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://bsky.app/profile/neev14.bsky.social">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/>
+  </a>
+
+</p>
 
 ---
-
-### 🏗 Backend & Architecture
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-000000?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 ---
 
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 💻 Tech Pyramid
+
+<p align="center">
+
+🔺 <b>AI / Machine Learning</b><br><br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+
+<br><br>
+
+🔺🔺 <b>Backend & Architecture</b><br><br>
+<img src="https://skillicons.dev/icons?i=laravel,docker" />
+<img src="https://img.shields.io/badge/REST-000000?style=flat"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+<br><br>
+
+🔺🔺🔺 <b>Programming Languages</b><br><br>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,php,ts" />
+
+<br><br>
+
+🔺🔺🔺🔺 <b>Tools & Ecosystem</b><br><br>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,kubernetes" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white"/>
+
+</p>
 
 ---
-
 ---
 
 ## 📊 Engineering Overview
