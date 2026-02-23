@@ -68,9 +68,17 @@ I perform best under pressure — hackathons feel like startup bootcamps.
 
 ---
 
-<!-- ================= SNAKE ================= -->
+<!-- ================= CONTRIBUTIONS ================= -->
 
-<h2 align="center" style="color:#00BFFF;">🐍 Contribution Activity</h2>
+<h2 align="center" style="color:#00BFFF;">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/neevmodh/neevmodh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<br>
+
+<h2 align="center" style="color:#7F00FF;">📈 Contribution Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=neevmodh&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
