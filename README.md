@@ -89,7 +89,6 @@ I perform best under pressure — hackathons feel like startup bootcamps to me.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neevmodh/neevmodh/output/github-contribution-grid-snake.svg">
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/neevmodh/neevmodh/output/github-contribution-grid-snake.svg">
 </picture>
----
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=neevmodh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
@@ -107,11 +106,6 @@ I perform best under pressure — hackathons feel like startup bootcamps to me.
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=neevmodh&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=neevmodh&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
 
 ## 👨‍💻 Personal Philosophy
 Build fast.  
