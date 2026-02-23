@@ -188,10 +188,53 @@ Fast iteration mindset.
   🚀 Always building. Always learning.
 </p>
 
+<br>
+
+<p align="center">
+
+  <a href="https://linkedin.com/in/neev-modh-43478a285">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://x.com/NModh3377">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"/>
+  </a>
+
+  <a href="https://youtube.com/channel/UCxzkHisGWxcVZ5884uxJyeg">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+
+  <a href="mailto:neevmodh205@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+</p>
+
+<p align="center">
+
+  <a href="https://discord.gg/g8SU7et5">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/synex.is">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://bsky.app/profile/neev14.bsky.social">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/>
+  </a>
+
+</p>
+
+<br>
+
+<p align="center">
+  <i>"Let’s build something that actually ships."</i>
+</p>
+
 ---
 
 <h2 align="center" style="color:#7F00FF;">👨‍💻 Personal Philosophy</h2>
-
 <p align="center">
   <b>Build fast. Iterate faster. Learn fastest.</b>
 </p>
