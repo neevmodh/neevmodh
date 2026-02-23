@@ -86,17 +86,19 @@ I perform best under pressure — hackathons feel like startup bootcamps to me.
 
 ---
 
-## 📊 Engineering Analytics
+---
+
+## 📊 Engineering Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neevmodh&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" height="170"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neevmodh&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neevmodh&theme=tokyonight" width="95%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neevmodh&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neevmodh&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
+
+---
 
 ---
 
