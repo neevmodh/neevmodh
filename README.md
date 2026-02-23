@@ -25,6 +25,13 @@ I perform best under pressure — hackathons feel like startup bootcamps to me.
 - 📦 Contribute to 1 open-source AI project  
 - 🧠 Build AI + Healthcare real-world system  
 ---
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neevmodh/neevmodh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neevmodh/neevmodh/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/neevmodh/neevmodh/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 🧠 Core Strengths
 - ML Model Optimization (Learning Phase)  
@@ -77,23 +84,19 @@ I perform best under pressure — hackathons feel like startup bootcamps to me.
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-# 📈 GitHub Activity Graph
-![Neev's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neevmodh&theme=radical)
-
 ---
 
-## 🐍 Contribution Snake
+## 📊 Engineering Analytics
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neevmodh/neevmodh/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neevmodh/neevmodh/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/neevmodh/neevmodh/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neevmodh&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" height="170"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neevmodh&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=neevmodh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=neevmodh&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=neevmodh&theme=radical&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neevmodh&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+</p>
 
 ---
 
