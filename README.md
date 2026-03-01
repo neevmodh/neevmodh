@@ -86,54 +86,6 @@ I perform best under pressure — hackathons feel like startup bootcamps.
 
 ---
 
-<!-- ================= CORE STRENGTHS ================= -->
-
-<h2 align="center" style="color:#00BFFF;">🧠 Core Strengths</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=7F00FF&center=true&vCenter=true&width=650&lines=Execution+Driven;Systems+Thinker;Hackathon+Performer" />
-</p>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-🚀 <b>Rapid Prototyping</b><br>
-Turning ideas into working systems quickly.
-
-<br><br>
-
-🧠 <b>Problem Decomposition</b><br>
-Breaking complex systems into structured layers.
-
-<br><br>
-
-🏗 <b>Backend Architecture</b><br>
-Designing scalable foundations.
-
-</td>
-
-<td width="50%">
-
-📈 <b>ML Optimization</b> <i>(Learning Phase)</i><br>
-Experimentation & performance tuning.
-
-<br><br>
-
-🤝 <b>Team Collaboration</b><br>
-Thriving in competitive environments.
-
-<br><br>
-
-⚡ <b>Execution Under Pressure</b><br>
-Fast iteration mindset.
-
-</td>
-</tr>
-</table>
-
----
-
 <!-- ================= TECH STACK ================= -->
 
 <h2 align="center">
@@ -162,26 +114,6 @@ Fast iteration mindset.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,kubernetes" height="55"/>
-</p>
-
----
-
-<!-- ================= ENGINEERING DASHBOARD ================= -->
-
-<h2 align="center" style="color:#00BFFF;">📊 Engineering Overview</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neevmodh&theme=tokyonight" width="95%"/>
-</p>
-
----
-
-<!-- ================= QUOTE ================= -->
-
-<h2 align="center" style="color:#7F00FF;">✍️ Dev Quote</h2>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
