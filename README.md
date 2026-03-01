@@ -123,7 +123,7 @@ I perform best under pressure — hackathons feel like startup bootcamps.
 <h2 align="center" style="color:#00BFFF;">🤝 Let’s Build Something Real</h2>
 
 <p align="center">
-  📍 Siddhpur, Gujarat, India <br>
+  📍 Ahmedabad, Gujarat, India <br>
   💼 Open to AI Roles • Internships • Hackathon Teams <br>
   🚀 Always building. Always learning.
 </p>
