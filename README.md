@@ -1,4 +1,4 @@
-### <div align="center">I'm Neev, a Software Engineering student at Nirma University</div>  
+### <div align="center">I'm Neev, a AIML Engineering student at Nirma University</div>  
 
 - I'm happy to chat about pretty much anything, so let's connect!! :)
 
