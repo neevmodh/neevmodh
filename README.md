@@ -2,6 +2,8 @@
 
 # Neev Modh
 
+<samp>AI Engineer · Machine Learning Engineer · Full-Stack Developer</samp>
+
 <samp>
 <a href="https://www.linkedin.com/in/neev-modh-43478a285/">linkedin</a> ·
 <a href="https://github.com/neevmodh">github</a> ·
@@ -26,11 +28,18 @@
 **IIT Delhi — Metamorphosis 2026** — Technical Mentor, AI/ML, 2026
 <br/><samp>1 of 9 mentors chosen nationally · deep learning, NLP, and solution-design sessions</samp>
 
-### highlight
+**IIIT Delhi — Young Creators Bootcamp** — Program Head, 2026
+<br/><samp>led a week-long AI/ML + entrepreneurship bootcamp · coordinated 20+ mentors for 100+ students</samp>
+
+### highlights
 
 **Solar Intel — AI Solar Fleet Intelligence Platform**
-<br/><samp>XGBoost predictive maintenance · 95.3% accuracy · 0.981 AUC-ROC · RAG chat · 4-step agentic workflow</samp>
+<br/><samp>XGBoost predictive maintenance · 95.3% accuracy · 0.981 AUC-ROC · RAG chat · 4-step agentic workflow · Dockerized, live on Vercel</samp>
 <br/><samp>code: <a href="https://github.com/neevmodh/Solar-intel">github.com/neevmodh/Solar-intel</a></samp>
+
+**Phantom Protocol — Synthetic Media Authentication System**
+<br/><samp>deepfake detection across 5 media types — images, video, voice, documents, URLs · global iSAFE finalist</samp>
+<br/><samp>code: <a href="https://github.com/neevmodh/PHANTOM-PROTOCOL">github.com/neevmodh/PHANTOM-PROTOCOL</a></samp>
 
 ### hackathons
 
@@ -41,6 +50,10 @@ IntelliSmart INSTINCT 4.0 — national grand finale<br/>
 IIT Delhi SquareHacks — final 6, countrywide<br/>
 DDCET 2025 — AIR 174 / 19,000, 99th percentile
 </samp>
+
+### stack
+
+<samp>Python · PyTorch · TensorFlow · LLMs · RAG · Agentic AI · Computer Vision · TypeScript · Next.js · FastAPI · Docker · AWS</samp>
 
 ### stats
 
