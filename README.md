@@ -33,13 +33,13 @@
 
 ### highlights
 
-**Solar Intel — AI Solar Fleet Intelligence Platform**
-<br/><samp>XGBoost predictive maintenance · 95.3% accuracy · 0.981 AUC-ROC · RAG chat · 4-step agentic workflow · Dockerized, live on Vercel</samp>
-<br/><samp>code: <a href="https://github.com/neevmodh/Solar-intel">github.com/neevmodh/Solar-intel</a></samp>
+**EcoPower 3.0 — Energy-as-a-Service Platform**
+<br/><samp>EaaS layer above AMI · DISCOM panel · provable meter-derived billing · live smart-meter telemetry · Next.js, Expo, Supabase</samp>
+<br/><samp>live: <a href="https://ecopower3.vercel.app">ecopower3.vercel.app</a> · code: <a href="https://github.com/neevmodh/EcoPower3.0">github.com/neevmodh/EcoPower3.0</a></samp>
 
-**Phantom Protocol — Synthetic Media Authentication System**
-<br/><samp>deepfake detection across 5 media types — images, video, voice, documents, URLs · global iSAFE finalist</samp>
-<br/><samp>code: <a href="https://github.com/neevmodh/PHANTOM-PROTOCOL">github.com/neevmodh/PHANTOM-PROTOCOL</a></samp>
+**NivayaLife — Family Health Record Manager**
+<br/><samp>reports, medications, vaccinations, and AI-powered health summaries for the whole household · Laravel, FastAPI, PyTorch</samp>
+<br/><samp>live: <a href="https://nivayalife.up.railway.app">nivayalife.up.railway.app</a> · code: <a href="https://github.com/neevmodh/NivayaLife">github.com/neevmodh/NivayaLife</a></samp>
 
 ### hackathons
 
