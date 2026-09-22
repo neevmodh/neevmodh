@@ -37,9 +37,9 @@
 <br/><samp>EaaS layer above AMI · DISCOM panel · provable meter-derived billing · live smart-meter telemetry · Next.js, Expo, Supabase</samp>
 <br/><samp>live: <a href="https://ecopower3.vercel.app">ecopower3.vercel.app</a> · code: <a href="https://github.com/neevmodh/EcoPower3.0">github.com/neevmodh/EcoPower3.0</a></samp>
 
-**NivayaLife — Family Health Record Manager**
-<br/><samp>reports, medications, vaccinations, and AI-powered health summaries for the whole household · Laravel, FastAPI, PyTorch</samp>
-<br/><samp>live: <a href="https://nivayalife.up.railway.app">nivayalife.up.railway.app</a> · code: <a href="https://github.com/neevmodh/NivayaLife">github.com/neevmodh/NivayaLife</a></samp>
+**EcoPower 2.0 — Smart Solar Energy Management Platform**
+<br/><samp>three role-based dashboards · real-time data · AI-driven recommendations · branded PDF export · Grand Finale Finalist, INSTINCT 4.0</samp>
+<br/><samp>live: <a href="https://eco-power2-0.vercel.app">eco-power2-0.vercel.app</a> · code: <a href="https://github.com/neevmodh/EcoPower2.0">github.com/neevmodh/EcoPower2.0</a></samp>
 
 ### hackathons
 
