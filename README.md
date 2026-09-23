@@ -45,11 +45,7 @@
 
 <samp>
 
-[![LMCache #5306](https://img.shields.io/github/pulls/detail/state/LMCache/LMCache/5306?style=flat-square&label=LMCache%20%235306&labelColor=161b22)](https://github.com/LMCache/LMCache/pull/5306)
-<br/>
-[![Supabase #50750](https://img.shields.io/github/pulls/detail/state/supabase/supabase/50750?style=flat-square&label=Supabase%20%2350750&labelColor=161b22)](https://github.com/supabase/supabase/pull/50750)
-<br/>
-[![Sentry #125238](https://img.shields.io/github/pulls/detail/state/getsentry/sentry/125238?style=flat-square&label=Sentry%20%23125238&labelColor=161b22)](https://github.com/getsentry/sentry/pull/125238)
+[![LMCache](https://img.shields.io/github/pulls/detail/state/LMCache/LMCache/5306?style=flat-square&label=LMCache&labelColor=161b22)](https://github.com/LMCache/LMCache/pull/5306)
 
 </samp>
 
