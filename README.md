@@ -41,6 +41,18 @@
 <br/><samp>three role-based dashboards · real-time data · AI-driven recommendations · branded PDF export · Grand Finale Finalist, INSTINCT 4.0</samp>
 <br/><samp>live: <a href="https://eco-power2-0.vercel.app">eco-power2-0.vercel.app</a> · code: <a href="https://github.com/neevmodh/EcoPower2.0">github.com/neevmodh/EcoPower2.0</a></samp>
 
+### open source
+
+<samp>
+
+[![LMCache #5306](https://img.shields.io/github/pulls/detail/state/LMCache/LMCache/5306?style=flat-square&label=LMCache%20%235306&labelColor=161b22)](https://github.com/LMCache/LMCache/pull/5306)
+<br/>
+[![Supabase #50750](https://img.shields.io/github/pulls/detail/state/supabase/supabase/50750?style=flat-square&label=Supabase%20%2350750&labelColor=161b22)](https://github.com/supabase/supabase/pull/50750)
+<br/>
+[![Sentry #125238](https://img.shields.io/github/pulls/detail/state/getsentry/sentry/125238?style=flat-square&label=Sentry%20%23125238&labelColor=161b22)](https://github.com/getsentry/sentry/pull/125238)
+
+</samp>
+
 ### hackathons
 
 <samp>
