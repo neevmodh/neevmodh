@@ -46,7 +46,6 @@
 <samp>
 
 [![LMCache](https://img.shields.io/github/pulls/detail/state/LMCache/LMCache/5306?style=flat-square&label=LMCache&labelColor=161b22)](https://github.com/LMCache/LMCache/pull/5306)
-[![crewAI](https://img.shields.io/github/pulls/detail/state/crewAIInc/crewAI/7774?style=flat-square&label=crewAI&labelColor=161b22)](https://github.com/crewAIInc/crewAI/pull/7774)
 [![python-docs-fa](https://img.shields.io/github/pulls/detail/state/python/python-docs-fa/74?style=flat-square&label=python-docs-fa&labelColor=161b22)](https://github.com/python/python-docs-fa/pull/74)
 
 </samp>
