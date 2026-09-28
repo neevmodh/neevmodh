@@ -56,7 +56,12 @@
 Global iSAFE Hackathon 2026 — worldwide finalist, 120+ countries<br/>
 India–Israel International Hackathon — 3rd rank, 600+ squads<br/>
 IntelliSmart INSTINCT 4.0 — national grand finale<br/>
-IIT Delhi SquareHacks — final 6, countrywide<br/>
+IIT Delhi SquareHacks — final 6, countrywide
+</samp>
+
+### competitive exams
+
+<samp>
 DDCET 2025 — AIR 174 / 19,000, 99th percentile
 </samp>
 
