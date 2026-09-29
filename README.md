@@ -25,6 +25,7 @@
 <samp>
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-merged-8957e5?style=flat-square&labelColor=161b22)](https://github.com/pytorch/pytorch/commit/d030603ed003d49e4ddbb3bf3378531b4681660e)
+[![transformers](https://img.shields.io/github/pulls/detail/state/huggingface/transformers/49123?style=flat-square&label=transformers&labelColor=161b22)](https://github.com/huggingface/transformers/pull/49123)
 [![LMCache](https://img.shields.io/github/pulls/detail/state/LMCache/LMCache/5306?style=flat-square&label=LMCache&labelColor=161b22)](https://github.com/LMCache/LMCache/pull/5306)
 [![python](https://img.shields.io/github/pulls/detail/state/python/python-docs-fa/74?style=flat-square&label=python&labelColor=161b22)](https://github.com/python/python-docs-fa/pull/74)
 
