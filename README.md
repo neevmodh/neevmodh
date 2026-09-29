@@ -22,33 +22,14 @@
 
 ### 🌟 open source
 
-<table>
-<tr>
-<td width="150" valign="top" align="center"><samp><b>pytorch</b><br/>pytorch</samp></td>
-<td valign="top"><samp>Silent correctness bug in <code>torch.optim.Optimizer</code> — a bare <code>set()</code> of params was accepted where the same set inside a param group was already rejected. Ran a public-usage audit across GitHub before shipping, then landed a <code>FutureWarning</code> deprecation cycle instead of a hard break.</samp></td>
-<td width="90" valign="top" align="center"><a href="https://github.com/pytorch/pytorch/commit/d030603ed003d49e4ddbb3bf3378531b4681660e"><img src="https://img.shields.io/badge/merged-8957e5?style=flat-square&labelColor=161b22" alt="merged"/></a></td>
-</tr>
-<tr>
-<td width="150" valign="top" align="center"><samp><b>huggingface</b><br/>transformers</samp></td>
-<td valign="top"><samp><code>Trainer</code> checkpoint resume crashed on every rank when training on CPU with <code>torchrun --nproc_per_node>1</code> — an indexed <code>cpu:0</code> device isn't a valid <code>map_location</code> for torch's CPU deserializer. Fixed the fallback and added regression coverage.</samp></td>
-<td width="90" valign="top" align="center"><a href="https://github.com/huggingface/transformers/pull/49123"><img src="https://img.shields.io/github/pulls/detail/state/huggingface/transformers/49123?style=flat-square&label=&labelColor=161b22" alt="status"/></a></td>
-</tr>
-<tr>
-<td width="150" valign="top" align="center"><samp><b>LMCache</b><br/>LMCache</samp></td>
-<td valign="top"><samp>Converted rag-benchmark logging from eager f-strings to lazy <code>%</code>-style formatting, so unenabled log levels stop paying for string interpolation.</samp></td>
-<td width="90" valign="top" align="center"><a href="https://github.com/LMCache/LMCache/pull/5306"><img src="https://img.shields.io/badge/merged-8957e5?style=flat-square&labelColor=161b22" alt="merged"/></a></td>
-</tr>
-<tr>
-<td width="150" valign="top" align="center"><samp><b>LMCache</b><br/>LMCache</samp></td>
-<td valign="top"><samp>Traced why vLLM's <code>kv_load_failure_policy</code> silently has no effect on LMCache's L2 adapters (S3, NIXL) — a real load failure and a cache miss are indistinguishable at the connector boundary — and documented the finding.</samp></td>
-<td width="90" valign="top" align="center"><a href="https://github.com/LMCache/LMCache/pull/5364"><img src="https://img.shields.io/github/pulls/detail/state/LMCache/LMCache/5364?style=flat-square&label=&labelColor=161b22" alt="status"/></a></td>
-</tr>
-<tr>
-<td width="150" valign="top" align="center"><samp><b>python</b><br/>python-docs-fa</samp></td>
-<td valign="top"><samp>Fixed 7 newly-fuzzy strings in the Farsi translation of <code>optparse.po</code> and <code>uuid.po</code>, left stale after a CPython 3.14 doc sync.</samp></td>
-<td width="90" valign="top" align="center"><a href="https://github.com/python/python-docs-fa/pull/74"><img src="https://img.shields.io/github/pulls/detail/state/python/python-docs-fa/74?style=flat-square&label=&labelColor=161b22" alt="status"/></a></td>
-</tr>
-</table>
+<samp>
+
+[![PyTorch](https://img.shields.io/badge/PyTorch-merged-8957e5?style=flat-square&labelColor=161b22)](https://github.com/pytorch/pytorch/commit/d030603ed003d49e4ddbb3bf3378531b4681660e)
+[![transformers](https://img.shields.io/github/pulls/detail/state/huggingface/transformers/49123?style=flat-square&label=transformers&labelColor=161b22)](https://github.com/huggingface/transformers/pull/49123)
+[![LMCache](https://img.shields.io/github/pulls/detail/state/LMCache/LMCache/5306?style=flat-square&label=LMCache&labelColor=161b22)](https://github.com/LMCache/LMCache/pull/5306)
+[![python](https://img.shields.io/github/pulls/detail/state/python/python-docs-fa/74?style=flat-square&label=python&labelColor=161b22)](https://github.com/python/python-docs-fa/pull/74)
+
+</samp>
 
 ### now
 
