@@ -20,6 +20,16 @@
   <img src="https://raw.githubusercontent.com/neevmodh/neevmodh/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3d contribution graph" />
 </picture>
 
+### 🌟 open source
+
+<samp>
+
+[![PyTorch](https://img.shields.io/badge/PyTorch-merged-8957e5?style=flat-square&labelColor=161b22)](https://github.com/pytorch/pytorch/commit/d030603ed003d49e4ddbb3bf3378531b4681660e)
+[![LMCache](https://img.shields.io/github/pulls/detail/state/LMCache/LMCache/5306?style=flat-square&label=LMCache&labelColor=161b22)](https://github.com/LMCache/LMCache/pull/5306)
+[![python](https://img.shields.io/github/pulls/detail/state/python/python-docs-fa/74?style=flat-square&label=python&labelColor=161b22)](https://github.com/python/python-docs-fa/pull/74)
+
+</samp>
+
 ### now
 
 **Novix — AI-powered healthcare venture** — Founder & AI Engineer, 2026
@@ -40,16 +50,6 @@
 **EcoPower 2.0 — Smart Solar Energy Management Platform**
 <br/><samp>three role-based dashboards · real-time data · AI-driven recommendations · branded PDF export · Grand Finale Finalist, INSTINCT 4.0</samp>
 <br/><samp>live: <a href="https://eco-power2-0.vercel.app">eco-power2-0.vercel.app</a> · code: <a href="https://github.com/neevmodh/EcoPower2.0">github.com/neevmodh/EcoPower2.0</a></samp>
-
-### open source
-
-<samp>
-
-[![PyTorch](https://img.shields.io/badge/PyTorch-merged-8957e5?style=flat-square&labelColor=161b22)](https://github.com/pytorch/pytorch/commit/d030603ed003d49e4ddbb3bf3378531b4681660e)
-[![LMCache](https://img.shields.io/github/pulls/detail/state/LMCache/LMCache/5306?style=flat-square&label=LMCache&labelColor=161b22)](https://github.com/LMCache/LMCache/pull/5306)
-[![python](https://img.shields.io/github/pulls/detail/state/python/python-docs-fa/74?style=flat-square&label=python&labelColor=161b22)](https://github.com/python/python-docs-fa/pull/74)
-
-</samp>
 
 ### hackathons
 
