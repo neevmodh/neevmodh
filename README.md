@@ -1,16 +1,16 @@
-<a href="https://github.com/neevmodh">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a7f37,100:3fb950&height=200&section=header&text=Neev%20Modh&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Full-Stack%20and%20Data%20Systems&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Neev Modh" />
-</a>
-
 <div align="center">
 
-<a href="https://github.com/neevmodh">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=3FB950&center=true&vCenter=true&width=640&lines=I+take+ML+from+experiment+to+working+product;3D+vision+%C2%B7+RAG+%C2%B7+agentic+AI;Evaluated+on+held-out+data%2C+shipped+with+tests;Ahmedabad%2C+India+%C2%B7+open+to+internships" alt="typing intro" />
-</a>
+# Neev Modh
 
-<br/>
+<samp>AI / ML Engineer · Full-Stack & Data Systems · Ahmedabad, India</samp>
 
-<a href="https://www.linkedin.com/in/neev-modh-43478a285/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:neevmodh205@gmail.com"><img src="https://img.shields.io/badge/Email-3fb950?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://github.com/neevmodh?tab=repositories"><img src="https://img.shields.io/badge/Projects-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+<samp>I take ML from experiment to working product: models evaluated on held-out data, wrapped in software that is tested and shipped.</samp>
+
+<samp>
+<a href="https://www.linkedin.com/in/neev-modh-43478a285/">linkedin</a> ·
+<a href="https://github.com/neevmodh">github</a> ·
+<a href="mailto:neevmodh205@gmail.com">mail</a>
+</samp>
 
 </div>
 
@@ -18,11 +18,11 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neevmodh/neevmodh/main/profile-3d-contrib/profile-night-green.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neevmodh/neevmodh/main/profile-3d-contrib/profile-green-animate.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neevmodh/neevmodh/main/profile-3d-contrib/profile-green.svg" />
   <img src="https://raw.githubusercontent.com/neevmodh/neevmodh/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3d contribution graph" />
 </picture>
 
-### 🎓 now
+### now
 
 **IIT Delhi — Metamorphosis 2026** — Technical Mentor, AI/ML, May 2026 – present
 <br/><samp>1 of 9 mentors chosen nationally · deep learning, NLP and solution-design sessions · code and architecture reviews</samp>
@@ -54,7 +54,7 @@ NIT Hamirpur Hackathon — top 10 nationwide<br/>
 DDCET 2025 — AIR 174 of 19,000 (99th percentile)
 </samp>
 
-### 🚀 featured work
+### featured work
 
 **🤖 AI / ML**
 
@@ -82,50 +82,33 @@ DDCET 2025 — AIR 174 of 19,000 (99th percentile)
 | [**Prahari**](https://github.com/neevmodh/Prahari) | cross-camera vehicle tracking for Gujarat Police CCTV · reads a plate end to end in 0.68 s · 348 tests in CI |
 | [**ShipSync**](https://github.com/neevmodh/shipsync) | one shared shipment record for exporters, forwarders, brokers and transporters · LogiTHON 2026 · [live](https://shipsync-pink.vercel.app) |
 
-### 🧰 stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,fastapi,postgres,supabase,mongodb,kafka,hadoop&perline=11&theme=dark" alt="AI and data stack" />
-<br/>
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,threejs,docker,githubactions,vercel,aws,linux&perline=10&theme=dark" alt="web and ship stack" />
-
-</div>
+### stack
 
 <samp>
-<b>AI / ML</b> — LLMs · RAG · agentic AI · 3D reconstruction · XGBoost · held-out evaluation and ablations<br/>
-<b>backend & data</b> — FastAPI · PostgreSQL (RLS, partitioning) · Supabase · Kafka · Spark · Hadoop · Airflow<br/>
-<b>frontend & mobile</b> — TypeScript · Next.js · React Native / Expo · three.js
+<b>AI / ML</b> — Python · PyTorch · scikit-learn · XGBoost · OpenCV · 3D reconstruction · LLMs · RAG · agentic AI<br/>
+<b>backend & data</b> — FastAPI · PostgreSQL (RLS, partitioning) · Supabase · MongoDB · Kafka · Spark · Hadoop · Airflow<br/>
+<b>frontend & mobile</b> — TypeScript · React · Next.js · React Native / Expo · Tailwind · three.js<br/>
+<b>ship</b> — Docker · GitHub Actions · Vercel · Render · AWS · Linux
 </samp>
 
-### 📚 education
+### education
 
 <samp>
 Nirma University — B.Tech, Artificial Intelligence & Machine Learning, 2025 – 2028<br/>
 Government Polytechnic (GTU) — Diploma, Computer Engineering, 2022 – 2025
 </samp>
 
-### 📊 stats
+### stats
 
 <div align="center">
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=neevmodh&show_icons=true&hide_border=true&bg_color=00000000&title_color=3fb950&icon_color=3fb950&text_color=8b949e&count_private=true" height="165" />
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=neevmodh&layout=compact&hide_border=true&bg_color=00000000&title_color=3fb950&text_color=8b949e&langs_count=8" height="165" />
-<br/>
-<img src="https://streak-stats.demolab.com/?user=neevmodh&hide_border=true&background=00000000&ring=3FB950&fire=3FB950&currStrkLabel=3FB950&stroke=30363D&sideNums=C9D1D9&dates=8B949E&sideLabels=8B949E" height="165" alt="contribution streak" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neevmodh/neevmodh/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neevmodh/neevmodh/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/neevmodh/neevmodh/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
-</picture>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=neevmodh&color=3fb950&style=flat-square&label=profile+views" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,50:1a7f37,100:0d1117&height=110&section=footer" width="100%" />
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=neevmodh&color=555555&style=flat-square&label=views" />
+</div>
