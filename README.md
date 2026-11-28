@@ -33,6 +33,9 @@
 
 ### now
 
+**TiE Global Summit — BUILD 2036** — Nidhi, Frontier 2: Climate & Clean Energy, 2026
+<br/><samp>working prototype submitted: live smart meter + AI energy agent for Gujarat's Mission LiFE</samp>
+
 **Novix — AI-powered healthcare venture** — Founder & AI Engineer, 2026
 <br/><samp>LLM + RAG system turning fragmented medical records into clinical decision support · Python/FastAPI</samp>
 
@@ -43,6 +46,11 @@
 <br/><samp>led a week-long AI/ML + entrepreneurship bootcamp · coordinated 20+ mentors for 100+ students</samp>
 
 ### highlights
+
+**Nidhi — Mission LiFE energy app for Gujarat**
+<br/><samp>live smart meter · AI energy agent that ranks moves by ₹ then CO₂ · meter-proved actions · quests and society duels · DISCOM + GEDA consoles · English, ગુજરાતી, हिन्दी</samp>
+<br/><samp>FastAPI · PostgreSQL · Next.js · Expo · 451 backend tests</samp>
+<br/><samp>live: <a href="https://nidhi-gujarat.vercel.app">nidhi-gujarat.vercel.app</a> · demo: <a href="https://youtu.be/PRn3FF_PhPI">youtu.be/PRn3FF_PhPI</a> · code: <a href="https://github.com/neevmodh/Nidhi-LiFE">github.com/neevmodh/Nidhi-LiFE</a></samp>
 
 **EcoPower 3.0 — Energy-as-a-Service Platform**
 <br/><samp>EaaS layer above AMI · DISCOM panel · provable meter-derived billing · live smart-meter telemetry · Next.js, Expo, Supabase</samp>
@@ -69,7 +77,7 @@ DDCET 2025 — AIR 174 / 19,000, 99th percentile
 
 ### stack
 
-<samp>Python · PyTorch · TensorFlow · LLMs · RAG · Agentic AI · Computer Vision · TypeScript · Next.js · FastAPI · Docker · AWS</samp>
+<samp>Python · PyTorch · TensorFlow · LLMs · RAG · Agentic AI · Computer Vision · TypeScript · Next.js · React Native · Expo · FastAPI · PostgreSQL · Supabase · Docker · AWS</samp>
 
 ### stats
 
